@@ -10,11 +10,8 @@ Tenho experiencia e conhecimento em:
   react
   vue
 ---------------------------------------
-Sou apaixonado por lógica e isso ta 
-presente na minha vida nao só como trabalho
-mas com hob também.
+Sou apaixonado por lógica e isso está presente na minha 
+vida não só como trabalho mas com hobby também.
 
-Sou medalista, participei por 4 temporadas
-da OBR(Olimpíada Brasileira de Robótica), 
-fiquei em 1ª colocação em 3 destas estando
-presente na competição nacional 3 vezes.
+Sou medalhista, participei por 4 temporadas da OBR(Olimpíada Brasileira de Robótica), 
+fiquei em 1ª colocação em 3 destas estando presente na competição nacional 3 vezes.
